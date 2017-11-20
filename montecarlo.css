@@ -1,0 +1,8 @@
+canvas {
+
+  border: 1px black solid;
+  display: inline-block;
+  float: left;
+  touch-action: none;
+
+}
