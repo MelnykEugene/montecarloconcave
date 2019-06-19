@@ -1,2 +1,2 @@
 # montecarloconcave
-concave shape version of Montecarlo area calculator
+monte-carlo estimation of the area of hand-drawn polygons
